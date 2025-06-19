@@ -113,3 +113,7 @@ g++ rle_tool.cpp -o rle_tool
 This File Compression Tool is a functional and educational example of how simple algorithms like Run-Length Encoding can be applied in real-world applications. By reading from and writing to files, it bridges file I/O with algorithmic logic. With potential multithreading enhancements, the tool can be made scalable and much faster for larger datasets.
 
 Whether you're a student learning about compression, a developer building file utilities, or someone looking to reduce file size, this project provides a solid foundation and plenty of room for further development.
+
+#OUTPUT
+
+![Image](https://github.com/user-attachments/assets/bae17a23-2c56-4d09-8e48-a7bd29060be5)
