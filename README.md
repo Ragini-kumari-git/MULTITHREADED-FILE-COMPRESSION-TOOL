@@ -116,4 +116,5 @@ Whether you're a student learning about compression, a developer building file u
 
 #OUTPUT
 
-![Image](https://github.com/user-attachments/assets/bae17a23-2c56-4d09-8e48-a7bd29060be5)
+![Image](https://github.com/user-attachments/assets/324f5403-3d3c-4da4-b013-067442a6d378)
+
